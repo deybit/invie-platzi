@@ -1,10 +1,9 @@
-#Description
-What is new?
-
+# Descripción
+¿Qué ha cambiando?
+ 
 - [ ] Frontend
 - [ ] Backend
-- [ ] Database
+- [ ] Configuración del server
 
-#How I can test the changes?
-
-Site to test the new feature
+# Cómo puedo probar los cambios?
+en que url y forma puedo ver el update
